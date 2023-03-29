@@ -35,8 +35,8 @@ const data = [
   },
   {
     title: 'Management Utility System',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
     image: '/images/projects/catdetector.jpg',
+    link: 'https://github.com/hallilacanlale/multithreaded-system/',
     date: '2015-05-15',
     desc:
       'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
