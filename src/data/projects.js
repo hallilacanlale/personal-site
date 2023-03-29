@@ -14,13 +14,13 @@ const data = [
   {
     title: 'CyberTrade: Stock Bot',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    link: 'https://github.com/hallilacanlale/StocksBot',
+    image: '/images/projects/stocks.jpg',
+    date: '2022-03-01',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Allows stock traders to buy, sell, and trade stocks automatically using a'
+      + 'bot that executes trades based on a specific trading strategy, with the goal of automating profits. '
+      + 'It utilizes electric components such as Arduino, LED screen and RFID card.',
   },
   {
     title: 'AI Pacman',

@@ -19,7 +19,7 @@ const skills = [
     category: ['Tools', 'Languages'],
   },
   {
-    title: 'Amazon Web Services',
+    title: 'Amazon Web Services (AWS)',
     category: ['Web Development', 'Tools'],
   },
   {
@@ -31,16 +31,8 @@ const skills = [
     category: ['Web Development', 'Databases'],
   },
   {
-    title: 'ElasticSearch',
-    category: ['Web Development', 'Databases'],
-  },
-  {
     title: 'PostgreSQL/SQLite3/SQL',
     category: ['Web Development', 'Databases', 'Languages'],
-  },
-  {
-    title: 'Redis',
-    category: ['Web Development', 'Databases'],
   },
   {
     title: 'Data Mining',
@@ -59,7 +51,7 @@ const skills = [
     category: ['Web Development', 'Python'],
   },
   {
-    title: 'Git/Mercurial',
+    title: 'Git',
     category: ['Tools'],
   },
   {
@@ -72,15 +64,15 @@ const skills = [
   },
   {
     title: 'Numpy',
-    category: ['Data Science', 'Data Engineering', 'Python'],
+    category: ['Machine Learning', 'Data Engineering', 'Python'],
   },
   {
     title: 'Numba',
-    category: ['Data Science', 'Data Engineering', 'Python'],
+    category: ['Machine Learning', 'Data Engineering', 'Python'],
   },
   {
-    title: 'Tensorflow + Keras',
-    category: ['Data Science', 'Python'],
+    title: 'SAP SuccessFactor',
+    category: ['Framework'],
   },
   {
     title: 'Jupyter',
@@ -99,7 +91,27 @@ const skills = [
     category: ['Languages', 'Python'],
   },
   {
-    title: 'C++',
+    title: 'C/C++',
+    category: ['Languages'],
+  },
+  {
+    title: 'Swift',
+    category: ['Languages'],
+  },
+  {
+    title: 'C#',
+    category: ['Languages'],
+  },
+  {
+    title: 'F#',
+    category: ['Languages'],
+  },
+  {
+    title: 'Flutter',
+    category: ['Framework'],
+  },
+  {
+    title: 'Java',
     category: ['Languages'],
   },
   {
@@ -116,43 +128,63 @@ const skills = [
   },
   {
     title: 'Data Visualization',
-    category: ['Data Science', 'Javascript'],
+    category: ['Machine Learning', 'Javascript'],
   },
   {
     title: 'GraphQL',
     category: ['Web Development', 'Databases'],
   },
   {
+    title: 'Docker',
+    category: ['Tools'],
+  },
+  {
+    title: 'Azure',
+    category: ['Tools'],
+  },
+  {
+    title: 'GDB',
+    category: ['Tools'],
+  },
+  {
+    title: 'Linux',
+    category: ['Tools'],
+  },
+  {
+    title: 'Maven',
+    category: ['Tools'],
+  },
+  {
     title: 'Pandas',
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Engineering', 'Machine Learning', 'Python'],
   },
   {
     title: 'Matplotlib',
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Engineering', 'Machine Learning', 'Python'],
   },
   {
     title: 'Scikit-Learn',
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Engineering', 'Machine Learning', 'Python'],
   },
   {
-    title: 'Hadoop',
-    category: ['Data Engineering', 'Data Science'],
+    title: 'RESTful API',
+    category: ['Framework', 'Web Development', 'Data Engineering'],
   },
   {
-    title: 'Spark',
-    category: ['Data Engineering', 'Data Science'],
+    title: 'PyTorch',
+    category: ['Framework', 'Python', 'Machine Learning'],
   },
   {
-    title: 'Dagster',
-    category: ['Data Engineering', 'Python'],
+    title: 'Tensorflow',
+    category: ['Framework', 'Python', 'Machine Learning'],
   },
   {
-    title: 'Mypy',
-    category: ['Python'],
+    title: 'Django',
+    category: ['Framework', 'Web Development'],
   },
   {
-    title: 'Pylint',
-    category: ['Data Engineering', 'Python'],
+    title: 'GoogleTest',
+    category: ['Framework'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
