@@ -8,7 +8,7 @@ const data = [
     desc:
       'Built for a social impact hackathon. '
       + 'NearestsssDollar codfdfnnected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
+      + 'or debit csdfards and rounded up your purchases to donate the balance to '
       + 'the charity of your choice.',
   },
   {
