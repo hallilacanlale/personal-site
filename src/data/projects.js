@@ -2,7 +2,7 @@
 const data = [
   {
     title: 'Natural Language Processing-based Chatbot',
-    subtitle: '2015 BVP Hackathon',
+    subtitle: '',
     image: '/images/projects/nearestdollar.jpg',
     date: '2015-11-20',
     desc:
@@ -24,7 +24,7 @@ const data = [
   },
   {
     title: 'AI Pacman',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
+    subtitle: '',
     link: 'http://www.spacepotato.org',
     image: '/images/projects/spacepotato.jpg',
     date: '2015-06-28',
@@ -35,13 +35,13 @@ const data = [
   },
   {
     title: 'Management Utility System',
-    image: '/images/projects/catdetector.jpg',
+    image: '/images/projects/covid-test-website-image.jpg',
     link: 'https://github.com/hallilacanlale/multithreaded-system/',
-    date: '2015-05-15',
+    date: '2022-05-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Implemented a multithreaded system to track COVID diagnostic test using locking '
+      + 'to allow concurrent access without conflicting operations. Allows threads to sample tests '
+      + 'from various testing sites by executing mutual exclusion for an unbounded number of threads',
   },
 ];
 
