@@ -41,10 +41,7 @@ const Resume = () => (
         </div>
       </header>
       <Education data={degrees} />
-      <p>    </p>
-      <p>    </p>
       <Skills skills={skills} categories={categories} />
-      <p>    </p>
       <Experience data={positions} />
       <Courses data={courses} />
       <References />
