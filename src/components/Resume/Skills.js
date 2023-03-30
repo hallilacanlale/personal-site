@@ -107,7 +107,6 @@ Skills.defaultProps = {
 
 export default Skills;
 
-
 // import React, { Component } from 'react';
 // import PropTypes from 'prop-types';
 

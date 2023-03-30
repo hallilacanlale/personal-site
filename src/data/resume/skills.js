@@ -221,7 +221,6 @@ const categories = [
 
 export { categories, skills };
 
-
 // // TODO: Add Athletic Skills, Office Skills,
 // // Data Engineering, Data Science, ML Engineering, ... ?
 

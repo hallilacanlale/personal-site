@@ -1,4 +1,3 @@
-
 import React from 'react';
 import PropTypes from 'prop-types';
 
@@ -43,8 +42,6 @@ SkillBar.defaultProps = {
 };
 
 export default SkillBar;
-
-
 
 // import React from 'react';
 // import PropTypes from 'prop-types';
