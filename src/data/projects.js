@@ -30,7 +30,7 @@ const data = [
     date: '2015-06-28',
     desc:
       'Launched a potato dfbattery powered weather balloon with two cameras '
-      + 'and gps transponddfdsder. Resulting photos were published in a coffee table book. '
+      + 'and gps tranccsponddfdsder. Resulting photos were published in a coffee table book. '
       + 'You can email mdfe for a copy.',
   },
   {
