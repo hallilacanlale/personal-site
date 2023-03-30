@@ -29,7 +29,7 @@ const data = [
     image: '/images/projects/spacepotato.jpg',
     date: '2015-06-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
+      'Launched a potato dfbattery powered weather balloon with two cameras '
       + 'and gps transpondsder. Resulting photos were published in a coffee table book. '
       + 'You can email mdfe for a copy.',
   },
