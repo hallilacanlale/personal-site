@@ -24,7 +24,7 @@ const data = [
   },
   {
     title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
+    subtitle: 'A kickstarter fundeddfd potato powered weather balloon.',
     link: 'http://www.spacepotato.org',
     image: '/images/projects/spacepotato.jpg',
     date: '2015-06-28',
