@@ -1,6 +1,7 @@
 const positions = [
   {
     company: 'University of Chicago',
+    link: '',
     position: 'Software Engineer Intern',
     daterange: 'June 2022 - August 2022',
     points: [
@@ -12,6 +13,7 @@ const positions = [
   },
   {
     company: 'University of Illinois',
+    link: '',
     position: 'Undergraduate Computer Science Teaching Assistant',
     daterange: 'January 2021 – December 2022',
     points: [
@@ -23,6 +25,7 @@ const positions = [
   },
   {
     company: 'UIC Learning + Interest + Technology Lab',
+    link: '',
     position: 'Human-Computer Interaction Researcher ',
     daterange: 'August 2020 – December 2021',
     points: [
@@ -34,6 +37,7 @@ const positions = [
   },
   {
     company: 'CodePath',
+    link: '',
     position: 'Apple - iOS Mobile Tech Fellow ',
     daterange: 'August 2021 – January 2022',
     points: [
