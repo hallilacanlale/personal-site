@@ -93,7 +93,7 @@ export default data;
 //       + 'to allow concurrent access without conflicting operations.
 //   Allows threads to sample tests '
 //       + 'from various testing sites by executing mutual exclusion for an
-// unbounded number of threads',
+// unbounded nudfmber of threads',
 //   },
 // ];
 
