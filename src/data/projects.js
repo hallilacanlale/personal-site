@@ -81,7 +81,7 @@ export default data;
 //     desc:
 //       'Launched a potato batterysss powered weather balloon with two cameras '
 //       + 'and gps transponder. Resulting photos were published in a coffee table book. '
-//       + 'You can email me for a copy.',
+//       + 'You can email me sfor a copy.',
 //   },
 //   {
 //     title: 'Management Utility System',
