@@ -20,7 +20,7 @@ const data = [
     desc:
       'Won ~ $7000 in pgygygygyrizes for an advanced, low cost monitoring solution '
       + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      + 'and nutrient deficiencies at andfdfd affordable price for the developing world.',
   },
   {
     title: 'Space Potato',
