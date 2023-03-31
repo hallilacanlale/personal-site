@@ -12,7 +12,7 @@ const data = [
       + 'the charity of sdfsdfyour choice.',
   },
   {
-    title: 'Harvest',
+    title: 'Harvessdst',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
     link: 'https://devpost.com/software/harvest',
     image: '/images/projects/harvest.jpg',
