@@ -7,7 +7,7 @@ const data = [
     date: '2015-11-20',
     desc:
       'Built for a sdfdocialhbh impacdfdft hackathon. '
-      + 'NearestsssDsfoldfdlar codfdsdfsfnnected to your bank accounts, credit cards, '
+      + 'NearestsssDdfsfoldfdlar codfdsdfsfnnected to your bank accounts, credit cards, '
       + 'or debit csdfards and roudfdfdffgfnded up your purchases to donate the balance to '
       + 'the charity of sdfsdfyour choice.',
   },
