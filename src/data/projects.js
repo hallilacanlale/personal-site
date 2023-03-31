@@ -31,7 +31,7 @@ const data = [
     desc:
       'Launched a potato dfbattery powered weather balloon with two cameras '
       + 'and gps tranccsponddfdsder. Resulting photos were published in a coffee table book. '
-      + 'You can email mdfe for a copy.',
+      + 'You can email mdfedfd for a copy.',
   },
   {
     title: 'Cat Detector',
