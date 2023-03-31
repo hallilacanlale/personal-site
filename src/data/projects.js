@@ -6,7 +6,7 @@ const data = [
     image: '/images/projects/nearestdollar.jpg',
     date: '2015-11-20',
     desc:
-      'Built for a socialhbh impacdfdft hackathon. '
+      'Built for a sdfdocialhbh impacdfdft hackathon. '
       + 'NearestsssDsfoldfdlar codfdsdfsfnnected to your bank accounts, credit cards, '
       + 'or debit csdfards and roudfdfdffgfnded up your purchases to donate the balance to '
       + 'the charity of sdfsdfyour choice.',
