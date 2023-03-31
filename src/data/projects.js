@@ -7,7 +7,7 @@ const data = [
     date: '2015-11-20',
     desc:
       'Built for a socialhbh impact hackathon. '
-      + 'NearestsssDsfoldfdlar codfdfnnected to your bank accounts, credit cards, '
+      + 'NearestsssDsfoldfdlar codfdsdfsfnnected to your bank accounts, credit cards, '
       + 'or debit csdfards and rounded up your purchases to donate the balance to '
       + 'the charity of your choice.',
   },
