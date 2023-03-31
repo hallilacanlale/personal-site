@@ -29,6 +29,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
           git config user.name "Automated"
-          git config user.email "actihttps://github.com/hallilacanlale/personal-site.gitons@users.noreply.github.com"
-          git remote set-url origin 
+          git config user.email "actions@users.noreply.github.com"
+          git remote set-url origin https://github.com/hallilacanlale/personal-site.git
           npm run deploy
