@@ -79,7 +79,7 @@ export default data;
 //     image: '/images/projects/spacepotato.jpg',
 //     date: '2015-06-28',
 //     desc:
-//       'Launched a potato battery powered weather balloon with two cameras '
+//       'Launched a potato batterysss powered weather balloon with two cameras '
 //       + 'and gps transponder. Resulting photos were published in a coffee table book. '
 //       + 'You can email me for a copy.',
 //   },
